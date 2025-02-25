@@ -68,9 +68,6 @@ python manage.py runserver
 3. Commit your changes.
 4. Push the branch and create a pull request.
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## Contact
 For any inquiries, please reach out via [shreya0987.edu@gmail.com](mailto:shreya0987.edu@gmail.com) or create an issue in the repository.
 
